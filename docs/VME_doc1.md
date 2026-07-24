@@ -125,6 +125,8 @@ Important evaluation factors include:
 Selecting the right partner helps organizations build advertising strategies that adapt to evolving market conditions.
 
 ---
+![image](https://github.com/Vereigen-Media-LLC/VM-Engage/blob/main/diagrams/First-Party_Data_Architecture_for_Modern_B2B_Advertising.jpg)
+---
 
 ## Best Practices for Data-Driven B2B Advertising
 
