@@ -1,4 +1,4 @@
-# VM Engage 🚀
+# VM Engage - Programmatic Advertising Solutions🚀
 
 Welcome to the VM Engage documentation repository.
 
