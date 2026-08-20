@@ -2,7 +2,7 @@
 
 B2B advertising has become increasingly data-driven as businesses look for more precise ways to reach decision-makers across digital channels. Traditional advertising approaches can provide broad visibility, but modern campaigns require better audience targeting, measurement, and optimization to connect advertising activity with business outcomes.
 
-**B2B Programmatic Advertising** enables marketers to automate media buying and use audience and behavioral data to deliver advertising to relevant business audiences. When supported by strong targeting, creative strategy, and continuous optimization, **B2B Advertising Services** can become a scalable component of a broader demand generation and revenue strategy.
+[**B2B Programmatic Advertising**](https://vereigenmedia.com/vm-engage/) enables marketers to automate media buying and use audience and behavioral data to deliver advertising to relevant business audiences. When supported by strong targeting, creative strategy, and continuous optimization, **B2B Advertising Services** can become a scalable component of a broader demand generation and revenue strategy.
 
 ## Understanding B2B Programmatic Advertising
 
@@ -17,6 +17,8 @@ For B2B marketers, this can support:
 - Real-time campaign optimization
 - Cross-channel reach
 - Performance measurement
+
+![image](https://github.com/Vereigen-Media-LLC/VM-Engage-Programmatic-Advertising-Solutions/blob/main/images/B2B_Programmatic_Advertising_Practical_Framework_for_Smarter_Digital_Campaigns.jpg)
 
 ## Why B2B Advertising Requires a Different Approach
 
@@ -83,6 +85,8 @@ Important capabilities include:
 - Creative testing
 - Performance optimization
 - Transparent reporting
+
+![image](https://github.com/Vereigen-Media-LLC/VM-Engage-Programmatic-Advertising-Solutions/blob/main/diagrams/B2B_Programmatic_Advertising_Campaign_Architectiure.jpg)
 
 ## Programmatic Advertising and Lead Generation
 
@@ -171,6 +175,5 @@ Modern **B2B Advertising** requires a combination of audience intelligence, rele
 
 Whether an organization is evaluating a **B2B Advertising Agency**, investing in **B2B Advertising Services**, or building an internal advertising program, campaign effectiveness improves when audience targeting, display advertising, search, measurement, and optimization work together.
 
-For further insights, explore Vereigen Media's programmatic advertising resources:
+For further insights, explore [***Vereigen Media's programmatic advertising resources***](https://vereigenmedia.com/blogs/?%3F%3F%3F=&e-filter-f89f05e-category=programmatic-ads) 
 
-https://vereigenmedia.com/blogs/?%3F%3F%3F=&e-filter-f89f05e-category=programmatic-ads
